@@ -1,0 +1,145 @@
+{
+  "schema_version": "2.0",
+  "ca": "EQ...",
+  "ticker": "ABC",
+  "name": "Nombre Completo",
+  "status": "active|dead|scam|unknown|watchlist",
+  "first_seen": "2026-08-06T20:00:00Z",
+  "last_updated": "2026-08-06T20:00:00Z",
+  "source": "stonfi|dedust|tonapi|manual|multiple",
+
+  "socials": {
+    "telegram": "t.me/...",
+    "twitter": "@...",
+    "website": "https://...",
+    "discord": "https://...",
+    "github": "https://...",
+    "medium": "https://...",
+    "other": []
+  },
+
+  "description": {
+    "short": "Máx 140 chars",
+    "full": "Texto libre, puede ser null"
+  },
+
+  "media": {
+    "logo_url": "https://...",
+    "banner_url": "https://...",
+    "video_url": null
+  },
+
+  "on_chain": {
+    "deployer": "EQ...",
+    "deploy_time": "2026-08-01T10:00:00Z",
+    "total_supply": "1000000000000000000",
+    "decimals": 9,
+    "mintable": false,
+    "renounced": false,
+    "verified": false
+  },
+
+  "market": {
+    "price_usd": 0.00042,
+    "price_ton": 0.00001,
+    "mc_usd": 420000,
+    "mc_ton": 10000,
+    "fdv_usd": 420000,
+    "volume_24h_usd": 120000,
+    "volume_24h_ton": 2857,
+    "change_1h_pct": 5.2,
+    "change_24h_pct": -12.5,
+    "change_7d_pct": 45.0,
+    "ath_usd": 0.0008,
+    "atl_usd": 0.0001
+  },
+
+  "liquidity": {
+    "total_usd": 85000,
+    "total_ton": 2023,
+    "dexes": [
+      {
+        "name": "STON.fi",
+        "pool_address": "EQ...",
+        "liquidity_usd": 50000,
+        "locked": true,
+        "lock_expiry": "2027-08-01T00:00:00Z",
+        "lock_provider": "TONLocker"
+      },
+      {
+        "name": "DeDust",
+        "pool_address": "EQ...",
+        "liquidity_usd": 35000,
+        "locked": false,
+        "lock_expiry": null,
+        "lock_provider": null
+      }
+    ]
+  },
+
+  "holders": {
+    "total": 156,
+    "growing": true,
+    "change_24h": 12,
+    "top_10": {
+      "count": 10,
+      "pct_supply": 35.5,
+      "addresses": ["EQ...", "EQ..."]
+    },
+    "top_50": {
+      "count": 50,
+      "pct_supply": 78.2
+    },
+    "lp_wallets_excluded": true,
+    "whales": [
+      {
+        "address": "EQ...",
+        "pct": 8.5,
+        "label": "known|dev|exchange|unknown"
+      }
+    ]
+  },
+
+  "trading": {
+    "buys_24h": 89,
+    "sells_24h": 67,
+    "buy_sell_ratio": 1.33,
+    "avg_trade_size_usd": 450
+  },
+
+  "risk": {
+    "score": 65,
+    "level": "medium",
+    "flags": ["DEV_KNOWN", "LP_LOCKED", "COMMUNITY_ACTIVE"],
+    "warnings": ["HIGH_CONCENTRATION", "NEW_DEPLOY"],
+    "blacklisted": false
+  },
+
+  "context": {
+    "dev_known": true,
+    "dev_name": "Mikey/Marshall",
+    "dev_history": ["GROYPER", "LNG"],
+    "community_notes": "Comunidad muy activa, callers presentes",
+    "related_tokens": ["EQ...LNG", "EQ...OTHER"],
+    "calls_seen_in": ["La Resistencia", "Marshall's Cave"]
+  },
+
+  "history": [
+    {
+      "timestamp": "2026-08-01T10:00:00Z",
+      "event": "deploy",
+      "data": {}
+    },
+    {
+      "timestamp": "2026-08-03T14:00:00Z",
+      "event": "lp_lock",
+      "data": {"amount_usd": 50000}
+    }
+  ],
+
+  "_meta": {
+    "exported_by": "CriptoPulso v2.1",
+    "export_time": "2026-08-06T20:42:00Z",
+    "data_quality": "high|medium|low|partial"
+  }
+}
