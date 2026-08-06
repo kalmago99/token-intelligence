@@ -1,46 +1,46 @@
 {
   "schema_version": "2.0",
-  "ca": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-  "ticker": "GRAM",
-  "name": "Gram",
+  "ca": "EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k",
+  "ticker": "XAUt0",
+  "name": "Tether Gold",
   "status": "active",
   "first_seen": null,
-  "last_updated": "2026-08-06T21:21:17.203Z",
+  "last_updated": "2026-08-06T21:21:17.204Z",
   "source": "multiple",
   "socials": {
-    "telegram": "https://t.me/toncoin",
-    "twitter": "https://x.com/ton_blockchain",
-    "website": "https://ton.org",
+    "telegram": "",
+    "twitter": "",
+    "website": "",
     "discord": "",
     "github": "",
     "medium": "",
     "other": []
   },
   "description": {
-    "short": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrá",
-    "full": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrápidas, bajas comisiones y escalabilidad mediante masterchains y shards. Es el combustible de todo el ecosistema TON: pagos, staking, gobernanza on-chain, TON DNS, TON Storage, y desde 2025 es la infraestructura blockchain oficial para Telegram Mini Apps."
+    "short": "XAUt0 es Tether Gold en TON, un token respaldado por oro físico. Cada token representa una onza troy de oro almacenado en Suiza. Es un activ",
+    "full": "XAUt0 es Tether Gold en TON, un token respaldado por oro físico. Cada token representa una onza troy de oro almacenado en Suiza. Es un activo de reserva digital con respaldo tangible."
   },
   "media": {
-    "logo_url": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/7e9ffa3a3fc433184f7f2dd80b2bb9bfb4371f9d505f33cae81a41b5e0a50107",
+    "logo_url": "https://asset.ston.fi/img/EQA1R_LuQCLHlMgOo1S4G7Y7W1cd0FrAkbA10Zq7rddKxi9k/3bcae1f79dd8f8b89f1a60f5ea5f2ba9ebc15f96bd2667e12891df51a2b5377d",
     "banner_url": null,
     "video_url": null
   },
   "on_chain": {
     "deployer": null,
     "deploy_time": null,
-    "total_supply": "5100000000",
-    "decimals": 9,
+    "total_supply": "4788.81109",
+    "decimals": 6,
     "mintable": null,
     "renounced": null,
     "verified": null
   },
   "market": {
-    "price_usd": 1.5,
+    "price_usd": 4047.5520087569435,
     "price_ton": null,
-    "mc_usd": 7650000000,
+    "mc_usd": 19382961.946887027,
     "mc_ton": null,
     "fdv_usd": null,
-    "volume_24h_usd": 2387051.2916737585,
+    "volume_24h_usd": 1745.370783018131,
     "volume_24h_ton": null,
     "change_1h_pct": null,
     "change_24h_pct": null,
@@ -49,7 +49,7 @@
     "atl_usd": null
   },
   "liquidity": {
-    "total_usd": 23863857.878451806,
+    "total_usd": 241413.7109019566,
     "total_ton": null,
     "dexes": [
       {
@@ -89,6 +89,7 @@
     "score": 30,
     "level": "low",
     "flags": [
+      "LP_LOCKED",
       "COMMUNITY_ACTIVE"
     ],
     "warnings": [],
@@ -98,14 +99,14 @@
     "dev_known": null,
     "dev_name": null,
     "dev_history": [],
-    "community_notes": "Activa",
+    "community_notes": "Moderada",
     "related_tokens": [],
     "calls_seen_in": []
   },
   "history": [],
   "_meta": {
     "exported_by": "CriptoPulso v4",
-    "export_time": "2026-08-06T21:21:17.203Z",
+    "export_time": "2026-08-06T21:21:17.204Z",
     "data_quality": "medium"
   }
 }

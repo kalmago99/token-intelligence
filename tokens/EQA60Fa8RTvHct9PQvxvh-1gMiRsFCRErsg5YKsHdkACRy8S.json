@@ -1,46 +1,46 @@
 {
   "schema_version": "2.0",
-  "ca": "EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO",
-  "ticker": "STON",
-  "name": "STON.fi",
-  "status": "active",
-  "first_seen": null,
-  "last_updated": "2026-08-06T21:21:17.205Z",
+  "ca": "EQA60Fa8RTvHct9PQvxvh-1gMiRsFCRErsg5YKsHdkACRy8S",
+  "ticker": "HEDGEHOGE",
+  "name": "Hedgehoge",
+  "status": "watchlist",
+  "first_seen": "2026-08-06T21:21:17.393Z",
+  "last_updated": "2026-08-06T21:21:17.393Z",
   "source": "multiple",
   "socials": {
-    "telegram": "https://t.me/stonfidex",
-    "twitter": "https://x.com/ston_fi",
-    "website": "https://ston.fi",
+    "telegram": "",
+    "twitter": "",
+    "website": "",
     "discord": "",
     "github": "",
     "medium": "",
     "other": []
   },
   "description": {
-    "short": "STON es el token nativo de STON.fi, el DEX principal del ecosistema TON. STON.fi es un exchange descentralizado no custodial con más de $3.7",
-    "full": "STON es el token nativo de STON.fi, el DEX principal del ecosistema TON. STON.fi es un exchange descentralizado no custodial con más de $3.7B en volumen histórico, 30.000+ tokens listados, integración nativa con Telegram."
+    "short": "Token HEDGEHOGE en DeDust. Sin descripción detallada disponible.",
+    "full": "Token HEDGEHOGE en DeDust. Sin descripción detallada disponible."
   },
   "media": {
-    "logo_url": "https://asset.ston.fi/img/EQA2kCVNwVsil2EM2mB0SkXytxCqQjS4mttjDpnXmwG9T6bO/7c9798ce1e64707fb4cb8f025d4060f66b386ed381b50498e3b88731cedeffe8",
+    "logo_url": "https://assets.dedust.io/images/hedgehoge_RF.webp",
     "banner_url": null,
     "video_url": null
   },
   "on_chain": {
     "deployer": null,
     "deploy_time": null,
-    "total_supply": "99999999.77654931",
+    "total_supply": null,
     "decimals": 9,
     "mintable": null,
     "renounced": null,
     "verified": null
   },
   "market": {
-    "price_usd": 0.5096581125412409,
+    "price_usd": null,
     "price_ton": null,
-    "mc_usd": 50965811.14024064,
+    "mc_usd": null,
     "mc_ton": null,
     "fdv_usd": null,
-    "volume_24h_usd": 17961.654857486887,
+    "volume_24h_usd": 0,
     "volume_24h_ton": null,
     "change_1h_pct": null,
     "change_24h_pct": null,
@@ -49,11 +49,11 @@
     "atl_usd": null
   },
   "liquidity": {
-    "total_usd": 1346708.4925224462,
+    "total_usd": 0,
     "total_ton": null,
     "dexes": [
       {
-        "name": "STON.fi",
+        "name": "DeDust",
         "pool_address": null,
         "liquidity_usd": null,
         "locked": null,
@@ -78,27 +78,34 @@
     "avg_trade_size_usd": null
   },
   "risk": {
-    "score": 30,
-    "level": "low",
+    "score": 80,
+    "level": "high",
     "flags": [
-      "LP_LOCKED",
-      "COMMUNITY_ACTIVE"
+      "NEW_DEPLOY"
     ],
-    "warnings": [],
+    "warnings": [
+      "NEW_DEPLOY"
+    ],
     "blacklisted": false
   },
   "context": {
     "dev_known": null,
     "dev_name": null,
     "dev_history": [],
-    "community_notes": "Activa",
+    "community_notes": "Desconocida",
     "related_tokens": [],
     "calls_seen_in": []
   },
-  "history": [],
+  "history": [
+    {
+      "timestamp": "2026-08-06T21:21:17.393Z",
+      "event": "first_seen",
+      "data": {}
+    }
+  ],
   "_meta": {
     "exported_by": "CriptoPulso v4",
-    "export_time": "2026-08-06T21:21:17.205Z",
-    "data_quality": "medium"
+    "export_time": "2026-08-06T21:21:17.393Z",
+    "data_quality": "partial"
   }
 }

@@ -1,46 +1,46 @@
 {
   "schema_version": "2.0",
-  "ca": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-  "ticker": "GRAM",
-  "name": "Gram",
+  "ca": "EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt",
+  "ticker": "TINU",
+  "name": "Ton Inu",
   "status": "active",
   "first_seen": null,
-  "last_updated": "2026-08-06T21:21:17.203Z",
+  "last_updated": "2026-08-06T21:21:17.217Z",
   "source": "multiple",
   "socials": {
-    "telegram": "https://t.me/toncoin",
-    "twitter": "https://x.com/ton_blockchain",
-    "website": "https://ton.org",
+    "telegram": "",
+    "twitter": "",
+    "website": "",
     "discord": "",
     "github": "",
     "medium": "",
     "other": []
   },
   "description": {
-    "short": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrá",
-    "full": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrápidas, bajas comisiones y escalabilidad mediante masterchains y shards. Es el combustible de todo el ecosistema TON: pagos, staking, gobernanza on-chain, TON DNS, TON Storage, y desde 2025 es la infraestructura blockchain oficial para Telegram Mini Apps."
+    "short": "TINU (Ton Inu) es un token con temática de perro (Inu) en TON, siguiendo el fenómeno de tokens inu en crypto. Sin diferenciación clara.",
+    "full": "TINU (Ton Inu) es un token con temática de perro (Inu) en TON, siguiendo el fenómeno de tokens inu en crypto. Sin diferenciación clara."
   },
   "media": {
-    "logo_url": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/7e9ffa3a3fc433184f7f2dd80b2bb9bfb4371f9d505f33cae81a41b5e0a50107",
+    "logo_url": "https://asset.ston.fi/img/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt/f5d7a4365d46b9173cae60756d951c2d1ad37167ccffac7efbf1c41feaad0a72",
     "banner_url": null,
     "video_url": null
   },
   "on_chain": {
     "deployer": null,
     "deploy_time": null,
-    "total_supply": "5100000000",
+    "total_supply": "999999999.9999995",
     "decimals": 9,
     "mintable": null,
     "renounced": null,
     "verified": null
   },
   "market": {
-    "price_usd": 1.5,
+    "price_usd": 0.00009276212209679629,
     "price_ton": null,
-    "mc_usd": 7650000000,
+    "mc_usd": 92762.12209679624,
     "mc_ton": null,
     "fdv_usd": null,
-    "volume_24h_usd": 2387051.2916737585,
+    "volume_24h_usd": 72.38381940709368,
     "volume_24h_ton": null,
     "change_1h_pct": null,
     "change_24h_pct": null,
@@ -49,19 +49,11 @@
     "atl_usd": null
   },
   "liquidity": {
-    "total_usd": 23863857.878451806,
+    "total_usd": 14227.545503825539,
     "total_ton": null,
     "dexes": [
       {
         "name": "STON.fi",
-        "pool_address": null,
-        "liquidity_usd": null,
-        "locked": null,
-        "lock_expiry": null,
-        "lock_provider": null
-      },
-      {
-        "name": "DeDust",
         "pool_address": null,
         "liquidity_usd": null,
         "locked": null,
@@ -86,11 +78,9 @@
     "avg_trade_size_usd": null
   },
   "risk": {
-    "score": 30,
-    "level": "low",
-    "flags": [
-      "COMMUNITY_ACTIVE"
-    ],
+    "score": 55,
+    "level": "high",
+    "flags": [],
     "warnings": [],
     "blacklisted": false
   },
@@ -98,14 +88,14 @@
     "dev_known": null,
     "dev_name": null,
     "dev_history": [],
-    "community_notes": "Activa",
+    "community_notes": "Inactiva",
     "related_tokens": [],
     "calls_seen_in": []
   },
   "history": [],
   "_meta": {
     "exported_by": "CriptoPulso v4",
-    "export_time": "2026-08-06T21:21:17.203Z",
+    "export_time": "2026-08-06T21:21:17.217Z",
     "data_quality": "medium"
   }
 }

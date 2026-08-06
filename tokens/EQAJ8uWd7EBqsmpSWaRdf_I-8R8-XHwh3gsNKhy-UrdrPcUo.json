@@ -1,46 +1,46 @@
 {
   "schema_version": "2.0",
-  "ca": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-  "ticker": "GRAM",
-  "name": "Gram",
-  "status": "active",
+  "ca": "EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo",
+  "ticker": "HMSTR",
+  "name": "Hamster Kombat",
+  "status": "unknown",
   "first_seen": null,
-  "last_updated": "2026-08-06T21:21:17.203Z",
+  "last_updated": "2026-08-06T21:21:17.208Z",
   "source": "multiple",
   "socials": {
-    "telegram": "https://t.me/toncoin",
-    "twitter": "https://x.com/ton_blockchain",
-    "website": "https://ton.org",
+    "telegram": "https://t.me/hamster_kombat",
+    "twitter": "https://x.com/hamster_kombat",
+    "website": "",
     "discord": "",
     "github": "",
     "medium": "",
     "other": []
   },
   "description": {
-    "short": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrá",
-    "full": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrápidas, bajas comisiones y escalabilidad mediante masterchains y shards. Es el combustible de todo el ecosistema TON: pagos, staking, gobernanza on-chain, TON DNS, TON Storage, y desde 2025 es la infraestructura blockchain oficial para Telegram Mini Apps."
+    "short": "HMSTR es el token del juego Hamster Kombat en Telegram, un tap-to-earn donde los usuarios gestionan un exchange de criptomonedas virtual. Tu",
+    "full": "HMSTR es el token del juego Hamster Kombat en Telegram, un tap-to-earn donde los usuarios gestionan un exchange de criptomonedas virtual. Tuvo uno de los lanzamientos más masivos del ecosistema TON."
   },
   "media": {
-    "logo_url": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/7e9ffa3a3fc433184f7f2dd80b2bb9bfb4371f9d505f33cae81a41b5e0a50107",
+    "logo_url": "https://asset.ston.fi/img/EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo/eab9936b63e22ca759f67dc713fd2c1b3bd45590c6298882637cd4511dabaf5a",
     "banner_url": null,
     "video_url": null
   },
   "on_chain": {
     "deployer": null,
     "deploy_time": null,
-    "total_supply": "5100000000",
+    "total_supply": "99999999253.22551",
     "decimals": 9,
     "mintable": null,
     "renounced": null,
     "verified": null
   },
   "market": {
-    "price_usd": 1.5,
+    "price_usd": null,
     "price_ton": null,
-    "mc_usd": 7650000000,
+    "mc_usd": null,
     "mc_ton": null,
     "fdv_usd": null,
-    "volume_24h_usd": 2387051.2916737585,
+    "volume_24h_usd": 882.960047302352,
     "volume_24h_ton": null,
     "change_1h_pct": null,
     "change_24h_pct": null,
@@ -49,7 +49,7 @@
     "atl_usd": null
   },
   "liquidity": {
-    "total_usd": 23863857.878451806,
+    "total_usd": 2369.0313743703514,
     "total_ton": null,
     "dexes": [
       {
@@ -86,11 +86,9 @@
     "avg_trade_size_usd": null
   },
   "risk": {
-    "score": 30,
-    "level": "low",
-    "flags": [
-      "COMMUNITY_ACTIVE"
-    ],
+    "score": 55,
+    "level": "high",
+    "flags": [],
     "warnings": [],
     "blacklisted": false
   },
@@ -98,14 +96,14 @@
     "dev_known": null,
     "dev_name": null,
     "dev_history": [],
-    "community_notes": "Activa",
+    "community_notes": "Moderada",
     "related_tokens": [],
     "calls_seen_in": []
   },
   "history": [],
   "_meta": {
     "exported_by": "CriptoPulso v4",
-    "export_time": "2026-08-06T21:21:17.203Z",
-    "data_quality": "medium"
+    "export_time": "2026-08-06T21:21:17.208Z",
+    "data_quality": "partial"
   }
 }

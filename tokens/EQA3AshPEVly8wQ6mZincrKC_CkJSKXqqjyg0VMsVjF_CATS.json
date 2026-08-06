@@ -1,46 +1,46 @@
 {
   "schema_version": "2.0",
-  "ca": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
-  "ticker": "GRAM",
-  "name": "Gram",
+  "ca": "EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS",
+  "ticker": "CATS",
+  "name": "CATS (Resistance)",
   "status": "active",
   "first_seen": null,
-  "last_updated": "2026-08-06T21:21:17.203Z",
+  "last_updated": "2026-08-06T21:21:17.208Z",
   "source": "multiple",
   "socials": {
-    "telegram": "https://t.me/toncoin",
-    "twitter": "https://x.com/ton_blockchain",
-    "website": "https://ton.org",
+    "telegram": "",
+    "twitter": "",
+    "website": "",
     "discord": "",
     "github": "",
     "medium": "",
     "other": []
   },
   "description": {
-    "short": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrá",
-    "full": "GRAM (ex Toncoin) es el token nativo de The Open Network (TON), una blockchain de capa 1 proof-of-stake diseñada para transacciones ultrarrápidas, bajas comisiones y escalabilidad mediante masterchains y shards. Es el combustible de todo el ecosistema TON: pagos, staking, gobernanza on-chain, TON DNS, TON Storage, y desde 2025 es la infraestructura blockchain oficial para Telegram Mini Apps."
+    "short": "CATS es un token del ecosistema Resistance en TON, lanzado como mini-app de Telegram con distribución viral similar a DOGS y NOT.",
+    "full": "CATS es un token del ecosistema Resistance en TON, lanzado como mini-app de Telegram con distribución viral similar a DOGS y NOT."
   },
   "media": {
-    "logo_url": "https://asset.ston.fi/img/EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c/7e9ffa3a3fc433184f7f2dd80b2bb9bfb4371f9d505f33cae81a41b5e0a50107",
+    "logo_url": "https://asset.ston.fi/img/EQA3AshPEVly8wQ6mZincrKC_CkJSKXqqjyg0VMsVjF_CATS/eb61a743183dd339eb13d4b4f85ea5ffccba9010ebd62d0d95b8f5ebe93b0f56",
     "banner_url": null,
     "video_url": null
   },
   "on_chain": {
     "deployer": null,
     "deploy_time": null,
-    "total_supply": "5100000000",
+    "total_supply": "599999999666.66",
     "decimals": 9,
     "mintable": null,
     "renounced": null,
     "verified": null
   },
   "market": {
-    "price_usd": 1.5,
+    "price_usd": 2.338099227786176e-7,
     "price_ton": null,
-    "mc_usd": 7650000000,
+    "mc_usd": 140285.95358923238,
     "mc_ton": null,
     "fdv_usd": null,
-    "volume_24h_usd": 2387051.2916737585,
+    "volume_24h_usd": 330.98077253460235,
     "volume_24h_ton": null,
     "change_1h_pct": null,
     "change_24h_pct": null,
@@ -49,7 +49,7 @@
     "atl_usd": null
   },
   "liquidity": {
-    "total_usd": 23863857.878451806,
+    "total_usd": 5486.637890200408,
     "total_ton": null,
     "dexes": [
       {
@@ -86,11 +86,9 @@
     "avg_trade_size_usd": null
   },
   "risk": {
-    "score": 30,
-    "level": "low",
-    "flags": [
-      "COMMUNITY_ACTIVE"
-    ],
+    "score": 55,
+    "level": "high",
+    "flags": [],
     "warnings": [],
     "blacklisted": false
   },
@@ -98,14 +96,14 @@
     "dev_known": null,
     "dev_name": null,
     "dev_history": [],
-    "community_notes": "Activa",
+    "community_notes": "Moderada",
     "related_tokens": [],
     "calls_seen_in": []
   },
   "history": [],
   "_meta": {
     "exported_by": "CriptoPulso v4",
-    "export_time": "2026-08-06T21:21:17.203Z",
+    "export_time": "2026-08-06T21:21:17.208Z",
     "data_quality": "medium"
   }
 }
